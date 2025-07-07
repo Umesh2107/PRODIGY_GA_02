@@ -10,7 +10,8 @@ Here’s an image generated from the prompt:
 
 > `"a futuristic city with flying cars and neon lights"`
 
-![Generated Output](https://github.com/Umesh2107/PRODIGY_GA_02/blob/main/generated_image.png?raw=true)
+![Generated Output](generated_image.png)
+
 
 
 ---
