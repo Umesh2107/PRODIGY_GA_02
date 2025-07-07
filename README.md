@@ -10,7 +10,7 @@ Here’s an image generated from the prompt:
 
 > `"a futuristic city with flying cars and neon lights"`
 
-![Generated Output](generated_image.png)
+![Generated Output](generated_image)
 
 ---
 
